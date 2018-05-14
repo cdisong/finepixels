@@ -1,0 +1,48 @@
+
+
+.buttons-on-top {
+  font-family: 'Montserrat', sans-serif;
+  display: flex; 
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 12px;
+ 
+}
+
+
+.header-name { 
+  margin-left: 19px;
+  
+}
+
+.buttons {
+  display: flex;
+
+}
+
+.dashboard {
+  margin-right: 7px;
+  padding: 3px;
+  border-radius: 2px;
+}
+
+.dashboard:hover {
+  background-color: #a99c9c3d;
+
+}
+
+.dashboards:hover {
+   background-color: #a99c9c3d;
+  
+
+}
+
+
+.dashboards {
+  padding: 3px;
+  margin-right: 16px;
+  border-radius: 2px;
+
+}
+
+
